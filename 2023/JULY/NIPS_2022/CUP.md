@@ -10,4 +10,4 @@ Safe RL, we not only optimize reward but also avoid unsafe areas. CUP is policy 
 Policy Gradient and Generalized Advantage Estimators (GAE)
 ------------------------
 Policy Gradient is used to solve policy optimization. It maximizes the expected total reward by estimating gradient 
-g = gradient(J(&pi;<sub>&thetha;</sub>) = E[&sigma;&psi;gradient(log&pi;<sub>&thetha;(a<sub>t</sub>|s<sub>t</sub>]
+g = gradient(J(&pi;<sub>&theta;</sub>) = E[&Sigma;&psi;gradient(log&pi;<sub>&theta;(a<sub>t</sub>|s<sub>t</sub>])
