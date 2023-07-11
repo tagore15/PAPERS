@@ -22,5 +22,5 @@ Order of polynomial K is small and independent of M in graph.
 
 Chebyshev polynomial are using in signal processing as they attenuate unwanted oscillations around cut-off freq which are eigenvalues of Laplacian.  T<sub>x</sub>(x) =2xT<sub>k-1</sub>(x) - T<sub>k-2</sub>(x).     
 
-ARMA filter can approximate well any desired filter response h(&Lambda)  
+ARMA filter can approximate well any desired filter response h(&Lambda;)  
 
